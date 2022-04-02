@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://pancake.kiemtienonline360.com/static/css/main.fecde1b5.chunk.css",
+    "main.js": "https://pancake.kiemtienonline360.com/static/js/main.6a3b691f.chunk.js",
+    "main.js.map": "https://pancake.kiemtienonline360.com/static/js/main.6a3b691f.chunk.js.map",
+    "runtime-main.js": "https://pancake.kiemtienonline360.com/static/js/runtime-main.98170269.js",
+    "runtime-main.js.map": "https://pancake.kiemtienonline360.com/static/js/runtime-main.98170269.js.map",
+    "static/css/2.e5269ed1.chunk.css": "https://pancake.kiemtienonline360.com/static/css/2.e5269ed1.chunk.css",
+    "static/js/2.cf5b6bcc.chunk.js": "https://pancake.kiemtienonline360.com/static/js/2.cf5b6bcc.chunk.js",
+    "static/js/2.cf5b6bcc.chunk.js.map": "https://pancake.kiemtienonline360.com/static/js/2.cf5b6bcc.chunk.js.map",
+    "index.html": "https://pancake.kiemtienonline360.com/index.html",
+    "static/css/2.e5269ed1.chunk.css.map": "https://pancake.kiemtienonline360.com/static/css/2.e5269ed1.chunk.css.map",
+    "static/css/main.fecde1b5.chunk.css.map": "https://pancake.kiemtienonline360.com/static/css/main.fecde1b5.chunk.css.map",
+    "static/js/2.cf5b6bcc.chunk.js.LICENSE.txt": "https://pancake.kiemtienonline360.com/static/js/2.cf5b6bcc.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "https://pancake.kiemtienonline360.com/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98170269.js",
+    "static/css/2.e5269ed1.chunk.css",
+    "static/js/2.cf5b6bcc.chunk.js",
+    "static/css/main.fecde1b5.chunk.css",
+    "static/js/main.6a3b691f.chunk.js"
+  ]
+}
